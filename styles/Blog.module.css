@@ -1,0 +1,26 @@
+.container {
+    padding: 0 2rem;
+}
+
+.blog {
+    height: 100%;
+    margin-top: 2.5rem;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #FFFDD0;
+}
+
+.blog h1 {
+    color: #964B00;
+}
+
+.blogItem {
+    text-align: center;
+}
+
+.blogItem h2 {
+    cursor: pointer;
+}
